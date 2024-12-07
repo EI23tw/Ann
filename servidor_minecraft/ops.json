@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3f73ca46-64fc-3b5d-b3a8-51fa96d53504",
+    "name": "EI_23",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
